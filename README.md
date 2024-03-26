@@ -1,4 +1,4 @@
-# Topic Modeling using bert-base-uncased
+# Text classification using bert-base-uncased
 
 # Overview
 This project utilizes the bert-base-uncased model for text classification.
